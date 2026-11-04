@@ -1,5 +1,5 @@
 // Paste your Giphy API key here (keep a copy in .env for reference — .env is git-ignored)
-const apiKey = "YOUR_API_KEY_HERE";
+const apiKey = "jKdfdZAD22CBUMDKpE72XId0yUcbDbkL";
 
 // Grab the elements we need from the page
 const gifContainer = document.querySelector("#gif-container");
